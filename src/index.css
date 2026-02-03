@@ -159,8 +159,10 @@
 
   /* Text gradients */
   .text-gradient {
-    @apply bg-clip-text text-transparent;
     background: var(--gradient-primary);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
   }
 
   /* Animated gradient border */
