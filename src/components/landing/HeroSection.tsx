@@ -22,7 +22,8 @@ export function HeroSection() {
 
           {/* Headline */}
           <h1 className="text-5xl md:text-7xl font-bold tracking-tight mb-6 animate-fade-in-up" style={{ animationDelay: "0.1s" }}>
-            <span className="text-gradient">Decide What to Build</span>
+            Decide What to Build{" "}
+            <span className="text-gradient">Next with AI</span>
           </h1>
 
           {/* Subheadline */}
