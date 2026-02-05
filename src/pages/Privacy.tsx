@@ -26,7 +26,7 @@
            <section>
              <h2 className="text-2xl font-semibold mb-4">1. Introduction</h2>
              <p className="text-muted-foreground leading-relaxed">
-              Build AI, LLC ("Company," "we," "us," or "our") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Build AI platform and services.
+              Nextfeature AI, LLC ("Company," "we," "us," or "our") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Nextfeature.ai platform and services.
              </p>
            </section>
  
@@ -136,8 +136,8 @@
                If you have questions about this Privacy Policy or our privacy practices, please contact us at:
              </p>
              <div className="mt-4 p-4 rounded-lg bg-muted/50 border border-border">
-              <p className="font-medium">Build AI, LLC</p>
-              <p className="text-muted-foreground">Email: privacy@buildai.co</p>
+              <p className="font-medium">Nextfeature AI, LLC</p>
+              <p className="text-muted-foreground">Email: privacy@nextfeature.ai</p>
              </div>
            </section>
          </div>
