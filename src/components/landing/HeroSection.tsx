@@ -28,7 +28,7 @@ export function HeroSection() {
 
           {/* Subheadline */}
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto mb-10 animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
-          NextFeature.ai analyzes your customer feedback, usage data, and market signals to prioritize features that drive real impact.
+          NextFeature.AI analyzes your customer feedback, usage data, and market signals to prioritize features that drive real impact.
           </p>
 
           {/* CTA Buttons */}

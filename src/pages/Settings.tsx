@@ -84,7 +84,7 @@
                    </div>
                    <div className="space-y-2 md:col-span-2">
                      <Label htmlFor="company">Company</Label>
-                    <Input id="company" defaultValue="NextFeature.ai" />
+                    <Input id="company" defaultValue="NextFeature.AI" />
                    </div>
                  </div>
  
