@@ -22,20 +22,17 @@ export function Footer() {
             <a href="#pricing" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
               Pricing
             </a>
-            <Link to="/dashboard" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
-              Dashboard
-            </Link>
-            <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+            <Link to="/privacy" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
               Privacy
-            </a>
-            <a href="#" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
+            </Link>
+            <Link to="/terms" className="text-sm text-muted-foreground hover:text-foreground transition-colors">
               Terms
-            </a>
+            </Link>
           </nav>
 
           {/* Copyright */}
           <p className="text-sm text-muted-foreground">
-          © 2024 NextFeature.AI. All rights reserved.
+          © 2025 Nextfeature AI, LLC. All rights reserved.
           </p>
         </div>
       </div>
