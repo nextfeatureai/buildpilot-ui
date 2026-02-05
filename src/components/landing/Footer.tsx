@@ -11,7 +11,7 @@ export function Footer() {
             <div className="h-8 w-8 rounded-lg gradient-primary flex items-center justify-center">
               <Sparkles className="h-4 w-4 text-white" />
             </div>
-          <span className="text-lg font-semibold">nextfeature.ai</span>
+          <span className="text-lg font-semibold">NextFeature.ai</span>
           </div>
 
           {/* Links */}
@@ -35,7 +35,7 @@ export function Footer() {
 
           {/* Copyright */}
           <p className="text-sm text-muted-foreground">
-          © 2024 nextfeature.ai. All rights reserved.
+          © 2024 NextFeature.ai. All rights reserved.
           </p>
         </div>
       </div>

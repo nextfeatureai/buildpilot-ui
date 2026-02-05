@@ -12,7 +12,7 @@ export function Header() {
             <div className="h-8 w-8 rounded-lg gradient-primary flex items-center justify-center">
               <Sparkles className="h-4 w-4 text-white" />
             </div>
-          <span className="text-lg font-semibold">nextfeature.ai</span>
+          <span className="text-lg font-semibold">NextFeature.ai</span>
           </Link>
 
           {/* Navigation */}
