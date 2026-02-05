@@ -1,8 +1,9 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Upload, Play } from "lucide-react";
-import { Link } from "react-router-dom";
 
 export function HeroSection() {
+  const signInUrl = "#"; // TODO: Replace with actual sign-in domain
+
   return (
     <section className="relative min-h-screen flex items-center justify-center pt-16 overflow-hidden">
       {/* Background grid */}
@@ -34,16 +35,16 @@ export function HeroSection() {
           {/* CTA Buttons */}
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
             <Button variant="hero" size="xl" asChild>
-              <Link to="/dashboard">
+              <a href={signInUrl}>
                 Start Free
                 <ArrowRight className="ml-1 h-5 w-5" />
-              </Link>
+              </a>
             </Button>
             <Button variant="hero-outline" size="xl" asChild>
-              <Link to="/dashboard">
+              <a href={signInUrl}>
                 <Upload className="mr-1 h-5 w-5" />
                 Upload Your Data
-              </Link>
+              </a>
             </Button>
           </div>
 
