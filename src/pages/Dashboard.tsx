@@ -5,7 +5,7 @@ import { UploadWidget } from "@/components/dashboard/UploadWidget";
 
 const Dashboard = () => {
   return (
-    <div className="min-h-screen bg-background dark flex">
+    <div className="min-h-screen bg-background flex">
       {/* Sidebar */}
       <DashboardSidebar />
 
