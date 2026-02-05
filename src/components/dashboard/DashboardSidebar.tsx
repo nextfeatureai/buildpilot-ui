@@ -29,7 +29,7 @@ export function DashboardSidebar() {
           <div className="h-8 w-8 rounded-lg gradient-primary flex items-center justify-center shrink-0">
             <Sparkles className="h-4 w-4 text-white" />
           </div>
-        {!collapsed && <span className="text-lg font-semibold">Build AI</span>}
+        {!collapsed && <span className="text-lg font-semibold">Nextfeature.ai</span>}
         </div>
         {!collapsed && (
           <Button
