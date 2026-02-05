@@ -2,7 +2,7 @@ import { Star } from "lucide-react";
 
 const testimonials = [
   {
-    quote: "NextFeature.ai cut our roadmap planning time in half. The AI suggestions are incredibly accurate.",
+    quote: "NextFeature.AI cut our roadmap planning time in half. The AI suggestions are incredibly accurate.",
     author: "Sarah Chen",
     role: "VP of Product, TechCorp",
     avatar: "SC",
@@ -37,7 +37,7 @@ export function TestimonialsSection() {
             Loved by product teams
           </h2>
           <p className="text-xl text-muted-foreground">
-          See what leaders at top companies say about NextFeature.ai.
+          See what leaders at top companies say about NextFeature.AI.
           </p>
         </div>
 
