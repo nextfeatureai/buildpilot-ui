@@ -28,7 +28,7 @@ export function HeroSection() {
 
           {/* Subheadline */}
           <p className="text-xl md:text-2xl text-muted-foreground max-w-2xl mx-auto mb-10 animate-fade-in-up" style={{ animationDelay: "0.2s" }}>
-            BuildPilot analyzes your customer feedback, usage data, and market signals to prioritize features that drive real impact.
+          Nextfeature.ai analyzes your customer feedback, usage data, and market signals to prioritize features that drive real impact.
           </p>
 
           {/* CTA Buttons */}
@@ -73,7 +73,7 @@ export function HeroSection() {
                 </div>
                 <div className="flex-1 flex justify-center">
                   <div className="px-4 py-1.5 rounded-lg bg-muted/50 text-xs text-muted-foreground">
-                    app.buildpilot.ai
+                  app.nextfeature.ai
                   </div>
                 </div>
               </div>
