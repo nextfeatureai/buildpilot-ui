@@ -17,9 +17,9 @@ const Dashboard = () => {
         </div>
 
         {/* Right panel - Features & Upload */}
-        <div className="w-96 flex flex-col border-l border-border/50">
+        <div className="w-96 flex flex-col border-l border-border/50 overflow-y-auto max-h-screen">
           {/* Feature cards */}
-          <div className="flex-1 border-b border-border/50">
+          <div className="border-b border-border/50">
             <FeatureCards />
           </div>
 
