@@ -6,7 +6,7 @@ const plans = [
   {
     name: "Free",
     price: "$0",
-    description: "Perfect for trying out Nextbuild.ai",
+    description: "Perfect for trying out NextBuild.ai",
     features: [
       "Up to 100 feedback items",
       "Basic AI prioritization",

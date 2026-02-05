@@ -26,14 +26,14 @@
            <section>
              <h2 className="text-2xl font-semibold mb-4">1. Acceptance of Terms</h2>
              <p className="text-muted-foreground leading-relaxed">
-              By accessing or using the Nextbuild.ai platform and services provided by Nextbuild AI, LLC ("Company," "we," "us," or "our"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not access or use our services.
+              By accessing or using the NextBuild.ai platform and services provided by NextBuild AI, LLC ("Company," "we," "us," or "our"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not access or use our services.
              </p>
            </section>
  
            <section>
              <h2 className="text-2xl font-semibold mb-4">2. Description of Service</h2>
              <p className="text-muted-foreground leading-relaxed">
-              Nextbuild.ai is an AI-powered product intelligence platform that helps product teams analyze customer feedback, usage data, and market signals to prioritize features and make data-driven roadmap decisions. The service is provided on a subscription basis as Software-as-a-Service (SaaS).
+              NextBuild.ai is an AI-powered product intelligence platform that helps product teams analyze customer feedback, usage data, and market signals to prioritize features and make data-driven roadmap decisions. The service is provided on a subscription basis as Software-as-a-Service (SaaS).
              </p>
            </section>
  
@@ -122,7 +122,7 @@
            <section>
              <h2 className="text-2xl font-semibold mb-4">8. Intellectual Property</h2>
              <p className="text-muted-foreground leading-relaxed">
-              All intellectual property rights in the service, including software, algorithms, designs, trademarks, and documentation, are owned by Nextbuild AI, LLC or our licensors. These Terms do not grant you any rights to use our trademarks or branding without prior written consent.
+              All intellectual property rights in the service, including software, algorithms, designs, trademarks, and documentation, are owned by NextBuild AI, LLC or our licensors. These Terms do not grant you any rights to use our trademarks or branding without prior written consent.
              </p>
            </section>
  
@@ -150,7 +150,7 @@
            <section>
              <h2 className="text-2xl font-semibold mb-4">12. Indemnification</h2>
              <p className="text-muted-foreground leading-relaxed">
-              You agree to indemnify, defend, and hold harmless Nextbuild AI, LLC and its officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses (including reasonable attorneys' fees) arising out of your use of the services, violation of these Terms, or infringement of any third-party rights.
+              You agree to indemnify, defend, and hold harmless NextBuild AI, LLC and its officers, directors, employees, and agents from any claims, damages, losses, liabilities, and expenses (including reasonable attorneys' fees) arising out of your use of the services, violation of these Terms, or infringement of any third-party rights.
              </p>
            </section>
  
@@ -209,7 +209,7 @@
                If you have questions about these Terms, please contact us at:
              </p>
              <div className="mt-4 p-4 rounded-lg bg-muted/50 border border-border">
-              <p className="font-medium">Nextbuild AI, LLC</p>
+              <p className="font-medium">NextBuild AI, LLC</p>
               <p className="text-muted-foreground">Email: legal@nextbuild.ai</p>
              </div>
            </section>

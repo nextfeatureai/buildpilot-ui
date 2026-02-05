@@ -26,7 +26,7 @@
            <section>
              <h2 className="text-2xl font-semibold mb-4">1. Introduction</h2>
              <p className="text-muted-foreground leading-relaxed">
-              Nextbuild AI, LLC ("Company," "we," "us," or "our") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our Nextbuild.ai platform and services.
+              NextBuild AI, LLC ("Company," "we," "us," or "our") respects your privacy and is committed to protecting your personal data. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our NextBuild.ai platform and services.
              </p>
            </section>
  
@@ -136,7 +136,7 @@
                If you have questions about this Privacy Policy or our privacy practices, please contact us at:
              </p>
              <div className="mt-4 p-4 rounded-lg bg-muted/50 border border-border">
-              <p className="font-medium">Nextbuild AI, LLC</p>
+              <p className="font-medium">NextBuild AI, LLC</p>
               <p className="text-muted-foreground">Email: privacy@nextbuild.ai</p>
              </div>
            </section>
