@@ -80,11 +80,11 @@
                    </div>
                    <div className="space-y-2 md:col-span-2">
                      <Label htmlFor="email">Email</Label>
-                     <Input id="email" type="email" defaultValue="john@buildpilot.ai" />
+                   <Input id="email" type="email" defaultValue="john@nextfeature.ai" />
                    </div>
                    <div className="space-y-2 md:col-span-2">
                      <Label htmlFor="company">Company</Label>
-                     <Input id="company" defaultValue="BuildPilot Inc." />
+                   <Input id="company" defaultValue="Nextfeature.ai" />
                    </div>
                  </div>
  
