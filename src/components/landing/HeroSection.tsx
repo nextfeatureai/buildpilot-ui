@@ -1,5 +1,6 @@
 import { Button } from "@/components/ui/button";
 import { ArrowRight, Upload, Play } from "lucide-react";
+import { EmailSubscribe } from "./EmailSubscribe";
 
 export function HeroSection() {
   const signInUrl = "#"; // TODO: Replace with actual sign-in domain
@@ -32,15 +33,14 @@ export function HeroSection() {
           Nextfeature.ai analyzes your customer feedback, usage data, and market signals to prioritize features that drive real impact.
           </p>
 
-          {/* CTA Buttons */}
-          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 animate-fade-in-up" style={{ animationDelay: "0.3s" }}>
-            <Button variant="hero" size="xl" asChild>
-              <a href={signInUrl}>
-                Start Free
-                <ArrowRight className="ml-1 h-5 w-5" />
-              </a>
-            </Button>
-            <Button variant="hero-outline" size="xl" asChild>
+          {/* Email Subscribe - Primary CTA */}
+          <div className="animate-fade-in-up mb-8" style={{ animationDelay: "0.3s" }}>
+            <EmailSubscribe />
+          </div>
+
+          {/* Secondary CTA Buttons */}
+          <div className="flex flex-col sm:flex-row items-center justify-center gap-4 animate-fade-in-up" style={{ animationDelay: "0.4s" }}>
+            <Button variant="hero-outline" size="lg" asChild>
               <a href={signInUrl}>
                 <Upload className="mr-1 h-5 w-5" />
                 Upload Your Data
